@@ -48,8 +48,10 @@ All the resources below have specifically specified that their content is [:copy
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 * [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
+* [FreeImages](https://freeimages.red/) - Free image search engine.
 * [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
 * [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
+* [Good Free Photos](https://www.goodfreephotos.com/)
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 * [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
@@ -59,18 +61,27 @@ All the resources below have specifically specified that their content is [:copy
 * [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
+* [Morguefile](https://morguefile.com/)
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
+* [New Old Stock](http://nos.twnsnd.co/)
+* [One Million Free Pictures](http://www.1millionfreepictures.com/)
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
+* [Pic Jumbo](https://picjumbo.com/)
 * [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
+* [Pickup Image](http://pickupimage.com/)
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
+* [Public Domain Archive](http://publicdomainarchive.com/)
+* [PublicDomainPictures](http://www.publicdomainpictures.net/)
+* [Public Domain Pics](http://pdpics.com/)
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 * [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
+* [SplitShire](http://www.splitshire.com/)
 * [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
 * [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
@@ -79,6 +90,7 @@ All the resources below have specifically specified that their content is [:copy
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
+* [Viintage](http://viintage.com/)
 
 ### Custom License / Usage
 
